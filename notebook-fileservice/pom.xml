@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>notebook-dictionary</artifactId>
+	<artifactId>notebook-fileservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>notebook-dictionary</name>
+	<name>notebook-fileservice</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
