@@ -1,4 +1,4 @@
-package model;
+package micro.model;
 
 public class Term {
 
@@ -52,6 +52,5 @@ public class Term {
 	public void setFilePath(String filePath) {
 		this.filePath = filePath;
 	}
-    
 	
 }
