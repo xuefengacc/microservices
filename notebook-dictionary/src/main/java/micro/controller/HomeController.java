@@ -17,6 +17,7 @@ public class HomeController {
 		Term sample = new Term();
 		sample.setTermId(1000);
 		sample.setTermName("Sample");
+		sample.setFilePath("PATH");
 		
 		return new ResponseEntity<Term>(sample,HttpStatus.OK);
 	}
