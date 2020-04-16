@@ -1,4 +1,4 @@
-package micro.configuration;
+package demo;
 
 import org.springframework.beans.factory.annotation.Value;
 
